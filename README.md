@@ -7,10 +7,10 @@
 </p> 
 <br/>
 <p>
-- 🏢 I'm a Software Engineer <br/>
-- 👨‍💻 As an engineer, I'm constantly learning and exploring new technologies to improve my skills. <br/>
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development. <br/>
-- 👨‍💻 Check out my portfolio at  to see some of the projects I've worked on. <br/>
+   🏢 I'm a Software Engineer <br/>
+   👨‍💻 As an engineer, I'm constantly learning and exploring new technologies to improve my skills. <br/>
+   💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development. <br/>
+   👨‍💻 Check out my portfolio at  to see some of the projects I've worked on. <br/>
 </p>
 
 
