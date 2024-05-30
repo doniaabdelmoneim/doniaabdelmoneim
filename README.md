@@ -6,10 +6,10 @@
   <img width="350" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZwZXNxODNuZGNqaTJldXpwOHhjc3dkMjJnNW9hdmRlNWtjc215ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p> 
 <br/>
-<p color="red">
+<p  style="color: firebrick">
    🏢 I'm a Software Engineer <br/>
-   👨‍💻 As an engineer, I'm constantly learning and exploring new technologies to improve my skills. <br/>
-   💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development. <br/>
+   👨‍💻 As an engineer, I'm constantly learning and exploring new technologies <br/> to improve my skills. <br/>
+   💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, <br/> or anything related to web development. <br/>
    👨‍💻 Check out my portfolio at  to see some of the projects I've worked on. <br/>
 </p>
 
