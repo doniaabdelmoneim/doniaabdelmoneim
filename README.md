@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+TAS+Beginner&size=28&duration=3000&pause=1000&color=8520B3&center=true&vCenter=true&multiline=true&random=false&width=500&height=120&lines=Hi!+I'm+Donia+AbdEl-Moneim%2C+;full+stack+web+developer;I+welcome+you+to+my+git+hub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+TAS+Beginner&size=28&duration=3000&pause=1000&color=f75c7e&center=true&vCenter=true&multiline=true&random=false&width=500&height=120&lines=Hi!+I'm+Donia+AbdEl-Moneim%2C+;full+stack+web+developer;I+welcome+you+to+my+git+hub!" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Software Engineer
