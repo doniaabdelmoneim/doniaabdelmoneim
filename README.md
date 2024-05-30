@@ -1,4 +1,4 @@
-<img width="500" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZwZXNxODNuZGNqaTJldXpwOHhjc3dkMjJnNW9hdmRlNWtjc215ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img width="350" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZwZXNxODNuZGNqaTJldXpwOHhjc3dkMjJnNW9hdmRlNWtjc215ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
