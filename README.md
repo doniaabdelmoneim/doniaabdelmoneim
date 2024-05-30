@@ -1,7 +1,5 @@
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+TAS+Beginner&size=28&duration=3000&pause=1000&color=f75c7e&center=true&vCenter=true&multiline=true&random=false&width=500&height=120&lines=Hi!+I'm+Donia+AbdEl-Moneim%2C+;full+stack+web+developer;I+welcome+you+to+my+git+hub!" alt="Typing SVG" /></a>
