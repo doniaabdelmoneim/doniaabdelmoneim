@@ -37,9 +37,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=doniaabdelmoneim&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false) &nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=doniaabdelmoneim&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=doniaabdelmoneim&theme=tokyonight&hide_border=false)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=doniaabdelmoneim&rank_icon=github&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniaabdelmoneim&layout=donut&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&hide=Tex,assembly,html)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KeithLin724&theme=transparent&hide_border=true" />
+  </a>
+</p>
 
 
 <div> 
