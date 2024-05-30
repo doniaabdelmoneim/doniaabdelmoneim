@@ -47,7 +47,7 @@
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E683D9&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=80&section=footer"/>
 
 
 
