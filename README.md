@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&duration=3000&pause=1000&color=8520B3&center=true&vCenter=true&multiline=true&random=false&width=500&height=120&lines=Hi!+I'm+Donia+AbdEl-Moneim%2C+;full+stack+web+developer;I+welcome+you+to+my+git+hub!" alt="Typing SVG" /></a>
+
 
 </div>
 
@@ -13,7 +13,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&duration=3000&pause=1000&color=8520B3&center=true&vCenter=true&multiline=true&random=false&width=500&height=120&lines=Hi!+I'm+Donia+AbdEl-Moneim%2C+;full+stack+web+developer;I+welcome+you+to+my+git+hub!" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Software Engineer
