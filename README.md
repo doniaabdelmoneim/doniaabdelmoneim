@@ -69,11 +69,6 @@
 </h1>
 
 
-<div> 
-   <a href="https://www.instagram.com/devjenniferp" target="_blank"><img style="background-color: #c1558b; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <!--Botão Instagram -->
-  <a href = "mailto:devjenniferpereira@gmail.com"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;"  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <!--Botão E-mail -->
-  <a href="https://www.linkedin.com/in/devjenniferp" target="_blank"><img style="background-color: #bb4e95; padding: 0.1%; border-bottom-left-radius: 10px; border-top-right-radius: 10px;"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!--Botão Linkedin -->
-</div><br>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E683D9&height=80&section=footer"/>
