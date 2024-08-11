@@ -46,10 +46,6 @@
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)&nbsp;
 
 
-
-
-<span style="font-family: Agustina;">Donia</span>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD3B6&height=80&section=footer"/>
 
 
