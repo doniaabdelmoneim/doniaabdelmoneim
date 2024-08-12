@@ -2,7 +2,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Urbanist&size=28&duration=3000&pause=1000&color=FFD3B6&center=true&vCenter=true&multiline=true&random=false&width=500&height=120&lines=Hi!+I'm+Donia+AbdEl-Moneim%2C+;full+stack+web+developer;I+welcome+you+to+my+GitHub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Urbanist&size=28&duration=3000&pause=1000&color=5F374B&center=true&vCenter=true&multiline=true&random=false&width=500&height=120&lines=Hi!+I'm+Donia+AbdEl-Moneim%2C+;full+stack+web+developer;I+welcome+you+to+my+GitHub!" alt="Typing SVG" /></a>
   <img width="350" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZwZXNxODNuZGNqaTJldXpwOHhjc3dkMjJnNW9hdmRlNWtjc215ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p> 
 <br/>
