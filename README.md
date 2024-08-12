@@ -14,7 +14,7 @@
 </p>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=doniaabdelmoneim&rank_icon=github&show_icons=true&theme=onedark&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniaabdelmoneim&layout=donut&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true&hide=Tex,assembly,html)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=doniaabdelmoneim&rank_icon=github&show_icons=true&theme=onedark&bg_color=F8EDE3&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniaabdelmoneim&layout=donut&show_icons=true&theme=dracula&bg_color=F8EDE3&hide_border=true&hide=Tex,assembly,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=doniaabdelmoneim&theme=dracula&hide_border=true&border_radius=30&mode=weekly" alt="GitHub Streak" />
