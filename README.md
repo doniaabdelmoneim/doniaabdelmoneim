@@ -46,7 +46,7 @@
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)&nbsp;
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD3B6&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D2A78&height=80&section=footer"/>
 
 
 
